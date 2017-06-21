@@ -1,0 +1,54 @@
+.cabecera, .pie{
+  float:right;
+}
+
+.cabecera a, .pie a{
+  color: #801515;
+  margin: 20px;
+  text-transform: uppercase;
+}
+h1 a{
+  text-decoration: none;
+  color: #550000;
+  text-transform: uppercase;
+}
+.home h1{
+  float:left;
+  border-top: 4px solid color: #550000;
+  margin: 0px;
+  margin-bottom: 30px;
+}
+.descripcion{
+  clear: both;
+}
+.descripcion h1{
+  text-transform: uppercase;
+  text-align: center;
+  color: #801515;
+  margin-top: 70px;
+}
+h2, h3, h5{
+  text-align: center;
+  margin: 30px;
+  color: #550000;
+}
+.contenido{
+  float: left;
+  width: 33%;
+  margin-bottom: 80px;
+}
+p{
+  margin: 0px 20px;
+  text-align: justify;
+}
+.contenido a{
+  float: right;
+  margin: 0px 15px;
+}
+
+section a{
+  color: #550000;
+}
+footer{
+  clear: both;
+}
